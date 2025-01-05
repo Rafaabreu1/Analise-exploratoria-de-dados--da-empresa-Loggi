@@ -11,7 +11,7 @@ MATPLOTLIB e SEABORN. Entre os insights gerados, identifiquei a região de Bras�
 destaque em densidade de entregas, analisei os subúrbios com maior e menor volume de
 entregas e examinei o tamanho das entregas por região.
 
-## Habildiades adquiridas 
+## Habilidades adquiridas 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
