@@ -10,10 +10,7 @@
   - ## Dataset
     Os dados utilizados neste projeto foram extraídos de duas fontes confiáveis:
 
-    Casos confirmados e óbitos: Obtidos a partir do repositório do GitHub ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)), que disponibiliza relatórios diários sobre a pandemia.
-    Dados de vacinação: Coletados do dataset do Kaggle ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)), que contém registros detalhados sobre a evolução da vacinação global.
-    Essas fontes permitiram a construção de um painel interativo para acompanhar a evolução da pandemia ao longo de 2022.
-
+  Os dados foram extraídos do GitHub no formato JSON, permitindo uma análise estruturada e precisa das entregas na região de Brasília, GitHub ([link](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/main/dataset/deliveries.json))
    
   - ## Tecnologias utilizadas
   - Jupyter
