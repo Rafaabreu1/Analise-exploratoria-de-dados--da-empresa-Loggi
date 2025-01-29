@@ -14,8 +14,12 @@
    
   - ## Tecnologias utilizadas
   - Jupyter
-  - python (Math, Typing, Datetime, Numpy, Pandas)
-  - BI (Looker studio)
+  - Python
+  - Numpy
+  - Pandas
+  - Geopandas
+  - Matplotlib
+  - Seaborn
     
   - ## Metodologia
  Utilizei PYTHON no Google Colab para realizar uma análise exploratória de dados logísticos.
@@ -24,37 +28,32 @@ manipulei informações geográficas usando GEOPY e GEOPANDAS, e criei visualiza
 MATPLOTLIB e SEABORN. Entre os insights gerados, identifiquei a região de Brasília como
 destaque em densidade de entregas, analisei os subúrbios com maior e menor volume de
 entregas e examinei o tamanho das entregas por região.
-
-Transformação:
-
-Utilização de bibliotecas como Pandas, NumPy, Datetime e Typing para processar os dados.
-Filtragem e organização das colunas para manter apenas as informações relevantes.
-Padronização dos formatos de data e remoção de dados irrelevantes  nos datasets.
-Carregamento:
-
-Os dados transformados foram salvos em formato CSV para facilitar a importação e visualização no Looker Studio.
-
- Construção do Dashboard
-
-Importação dos dados no Looker Studio para criação de visualizações dinâmicas.
-Desenvolvimento de gráficos interativos, incluindo:
-Evolução diária dos casos confirmados.
-Número de mortes ao longo do tempo.
-Progresso da vacinação diária por país.
-Ajustes e refinamento para garantir que os insights fossem apresentados de forma clara e objetiva.
   
 
   - ## Resultados
-Total de 480.332.769 doses de vacinas aplicadas no Brasil em 2022, incluindo primeira, segunda e terceira doses.
+Localização e Abrangência de Cada Distrito
 
-Análise detalhada do número de casos confirmados e óbitos por dia, permitindo acompanhar a evolução da pandemia.
+Foram mapeados todos os distritos, incluindo a localização exata e a região abrangida por cada um deles. Isso permitiu uma compreensão detalhada da cobertura geográfica das entregas. 
 
-Cálculo da porcentagem da população vacinada ao longo do tempo, demonstrando o impacto da vacinação.
+Quantidade de Entregas por Distrito
 
-Identificação de tendências, como estabilidade, aumento ou queda nos casos e óbitos ao longo dos meses.
+A quantidade de entregas realizada em cada distrito foi analisada, proporcionando uma visão clara de como as entregas estão distribuídas entre os diferentes distritos.
 
-Cálculo da média móvel de mortes e casos a cada sete dias, representado em gráficos que mostram a curva de evolução desses indicadores.
+Distritos com Maior e Menor Quantidade de Entregas por Região
 
+Foram identificados os distritos com maior e menor quantidade de entregas dentro de cada região. Esses dados ajudam a entender as áreas de maior demanda e as que apresentam menor volume de entregas.
+
+Top 10 Subúrbios com Maior Quantidade de Entregas
+
+A análise revelou os 10 subúrbios com maior número de entregas realizadas. Essa informação é útil para otimizar as rotas e alocar recursos de maneira mais eficiente.
+
+op 10 Subúrbios com Menor Quantidade de Entregas
+
+Foram identificados também os 10 subúrbios com menor quantidade de entregas realizadas, o que pode indicar áreas com baixa demanda ou que necessitam de ajustes na logística.
+
+Regiões com Maior Índice de Entregas Grandes
+
+A análise também focou nas entregas grandes (itens volumosos ou de maior valor). As regiões com maior índice de entregas grandes foram destacadas, ajudando a identificar onde é necessário um planejamento logístico mais robusto.
 
  ## Próximos passos
 
