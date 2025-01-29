@@ -1,7 +1,7 @@
 
 ### **TLDR**
  - **Processamento**:
-  - Kaggle Notebook ([link]([https://www.kaggle.com/code/rafaeldeabreu/notebook19411c4008/edit](https://www.kaggle.com/code/rafaeldeabreu/projeto-an-lise-explorat-ria-da-empresa-loggi/edit)).
+  - Kaggle Notebook ([link]([https://www.kaggle.com/code/rafaeldeabreu/notebook19411c4008/edit](https://www.kaggle.com/code/rafaeldeabreu/projeto-an-lise-explorat-ria-da-empresa-loggi/edit))).
  - **Fontes**:
   - Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
   - Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
