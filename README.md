@@ -3,8 +3,7 @@
  - **Processamento**:
   - Kaggle Notebook ([link](https://www.kaggle.com/code/rafaeldeabreu/projeto-an-lise-explorat-ria-da-empresa-loggi/edit))
  - **Fontes**:
-  - Casos pela universidade John Hopkins ([link](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports));
-  - Vacinação pela universidade de Oxford ([link](https://covid.ourworldindata.org/data/owid-covid-data.csv)).
+  - GitHub ([link](https://raw.githubusercontent.com/andre-marcos-perez/ebac-course-utils/main/dataset/deliveries.json);
 
   - ## Objetivo
    O objetivo deste projeto foi desenvolver gráficos e insights para aprimorar a visualização e o entendimento do sistema de entregas da Loggi na região de Brasília. A análise permitiu identificar as áreas com maior e menor volume de entregas, contribuindo para a otimização do processo logístico e a tomada de decisões estratégicas. 
