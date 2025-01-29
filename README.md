@@ -56,14 +56,7 @@ Regiões com Maior Índice de Entregas Grandes
 A análise também focou nas entregas grandes (itens volumosos ou de maior valor). As regiões com maior índice de entregas grandes foram destacadas, ajudando a identificar onde é necessário um planejamento logístico mais robusto.
 
  ## Próximos passos
-
-   Para aprimorar o projeto e torná-lo ainda mais informativo, os próximos passos incluem:
-
-Implementar a opção de análise por diferentes períodos (semanal, mensal e trimestral), permitindo uma visão mais ampla das tendências ao longo do tempo.
-
-Adicionar filtros para seleção de regiões (Ex.: Norte, Sul, Sudeste), possibilitando uma análise comparativa entre diferentes localidades.
-
-Aprimorar a visualização dos dados, tornando o dashboard mais dinâmico e interativo para facilitar a extração de insights estratégicos.
+Os próximos passos neste projeto são analisar os períodos com maior e menor quantidade de entregas, tanto por mês quanto por semana.
 
 ## Como executar 
 Clonar o Repositório
@@ -77,20 +70,6 @@ Caso utilize o Google Colab, faça o upload dos arquivos necessários ou acesse 
 
 Execute todas as células do notebook para processar os dados e gerar as tabelas.
 
- Configurar o Dashboard no Looker Studio
- 
-Acesse o Looker Studio.
-
-Importe o arquivo CSV gerado pelo código.
-
-Configure os gráficos e filtros conforme necessário para explorar os dados interativamente.
-
- Explorar os Dados
-
-Analise tendências, como número de casos confirmados, mortes e vacinação ao longo do tempo.
-
-Utilize os filtros para visualizar os dados por períodos e regiões.
-
 Esse processo garantirá que você consiga reproduzir as análises e interagir com os dados no dashboard de forma eficiente. 🚀
     
 
@@ -98,8 +77,3 @@ Esse processo garantirá que você consiga reproduzir as análises e interagir c
     
   - MIT License
 
-  - ## Habilidades adquiridas 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
